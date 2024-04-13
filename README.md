@@ -1,6 +1,3 @@
-# Treadmill-buyer-profile-analysis
-
-
 # AeroFit Treadmill Customer Analysis
 
 ## Project Overview
